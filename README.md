@@ -9,3 +9,6 @@ Add up all the numbers from 1 to the number you passed to the function
 
 Day 3 - Minimum and maximum possible length of the third side of a triangle
 
+Day 4 - Find the number of squares inside the given square grid
+
+
