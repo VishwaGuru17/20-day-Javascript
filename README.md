@@ -14,3 +14,5 @@ Day 4 - Find the number of squares inside the given square grid
 Day 5 - calculate the perimeter and area of a circle
 
 Day 6 - Create a function that takes the age in years and returns the age in days
+
+Day 7 - Create a function that validates whether a number n is within the bounds of lower and upper. Return false if n is not an integer
