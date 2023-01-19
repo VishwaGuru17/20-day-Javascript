@@ -22,3 +22,5 @@ Day 8 -  Create a function which returns the number of true values there are in 
 Day 9 - Sum of the digits of square of the given number which has only 1’s as its digits
 
 Day 10 - Given an input string, reverse the string word by word, the first word will be the last, and so on
+
+Day 11 - You will be given an array of drinks, with each drink being an object with two properties: name and price. Create a function that has the drinks array as an argument and return the drinks objects sorted by price in ascending order
