@@ -24,3 +24,5 @@ Day 9 - Sum of the digits of square of the given number which has only 1’s as 
 Day 10 - Given an input string, reverse the string word by word, the first word will be the last, and so on
 
 Day 11 - You will be given an array of drinks, with each drink being an object with two properties: name and price. Create a function that has the drinks array as an argument and return the drinks objects sorted by price in ascending order
+
+Day 12 - Create a function that accepts a Date object and returns true if it's Christmas Eve (December 24th) and false otherwise
