@@ -25,4 +25,6 @@ Day 10 - Given an input string, reverse the string word by word, the first word 
 
 Day 11 - You will be given an array of drinks, with each drink being an object with two properties: name and price. Create a function that has the drinks array as an argument and return the drinks objects sorted by price in ascending order
 
-Day 12 - Create a function that accepts a Date object and returns true if it's Christmas Eve (December 24th) and false otherwise
+Day 12 - Given an integer array of coins[ ] of size N representing different types of currency and an integer sum, The task is to find the number of ways to make sum by using different combinations from coins[]. 
+
+Day 13 - Create a function that accepts a Date object and returns true if it's Christmas Eve (December 24th) and false otherwise. 
