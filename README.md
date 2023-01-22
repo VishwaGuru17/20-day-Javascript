@@ -28,3 +28,6 @@ Day 11 - You will be given an array of drinks, with each drink being an object w
 Day 12 - Given an integer array of coins[ ] of size N representing different types of currency and an integer sum, The task is to find the number of ways to make sum by using different combinations from coins[]. 
 
 Day 13 - Create a function that accepts a Date object and returns true if it's Christmas Eve (December 24th) and false otherwise. 
+
+Day 14 - In a board game, a piece may advance 1-6 tiles forward depending on the number rolled on a six-sided dice. If you advance your piece onto the same tile as another player's piece, both of you earn a bonus
+
