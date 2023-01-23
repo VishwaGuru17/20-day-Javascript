@@ -31,3 +31,5 @@ Day 13 - Create a function that accepts a Date object and returns true if it's C
 
 Day 14 - In a board game, a piece may advance 1-6 tiles forward depending on the number rolled on a six-sided dice. If you advance your piece onto the same tile as another player's piece, both of you earn a bonus
 
+Day 15 - Create a function that will add two positive numbers of indefinite size. The numbers are received as strings and the result should be also provided as string
+
