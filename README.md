@@ -33,3 +33,4 @@ Day 14 - In a board game, a piece may advance 1-6 tiles forward depending on the
 
 Day 15 - Create a function that will add two positive numbers of indefinite size. The numbers are received as strings and the result should be also provided as string
 
+Day 16 - Calculate 70! with high precision (all digits)
