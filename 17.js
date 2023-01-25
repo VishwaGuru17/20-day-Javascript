@@ -1,11 +1,9 @@
-var string = "Welcome to the great";
-
-
-var reverseEntireSentence = reverseBySeparator(string, "");
-
-
-var reverseEachWord = reverseBySeparator(reverseEntireSentence, " ");
-
-function reverseBySeparator(string, separator) {
-  return string.split(separator).reverse().join(separator);
-}
+const str = 'Hello World how is it outside';
+const reverseSentence = str => {
+   const arr = str.split(" ");
+   const reversed = arr.map(el => {
+      return el.split('').reverse().join("");
+   });
+   return reversed.join(" ");
+};
+console.log(reverseSentence(str));
