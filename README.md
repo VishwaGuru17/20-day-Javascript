@@ -36,3 +36,5 @@ Day 15 - Create a function that will add two positive numbers of indefinite size
 Day 16 - Calculate 70! with high precision (all digits)
 
 Day 17 - Given a string, reverse each word in the sentence
+
+Day 18 - Given two strings, return true if they are anagrams of one another
