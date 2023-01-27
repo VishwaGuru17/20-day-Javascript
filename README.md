@@ -38,3 +38,6 @@ Day 16 - Calculate 70! with high precision (all digits)
 Day 17 - Given a string, reverse each word in the sentence
 
 Day 18 - Given two strings, return true if they are anagrams of one another
+
+Day 19 - Make a Circle with OOP
+
