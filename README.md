@@ -41,3 +41,5 @@ Day 18 - Given two strings, return true if they are anagrams of one another
 
 Day 19 - Make a Circle with OOP
 
+Day 20 - Create a function that takes an array of numbers and returns the second largest number
+
